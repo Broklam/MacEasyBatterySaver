@@ -5,12 +5,11 @@ So I had the (perhaps strange) idea to write this program. The source code is in
 I hope this program will make your life a little easier
 
 You can make an allias on desktop and use it quickly 
-
+------------------------------------------------------
 UPDATE 0.02 lol
 
 Because suddenly C# was not a great choice for this task, so i couldnt sleep and now its written in go and finally have an independent binary.
-
-
+.........................
 HOW TO USE
 
 place it on your desktop as a shortcut

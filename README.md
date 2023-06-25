@@ -14,8 +14,12 @@ Because suddenly C# was not a great choice for this task, so i couldnt sleep and
 HOW TO USE
 
 place it on your desktop as a shortcut
+
 <img width="191" alt="Screenshot 2023-06-25 at 07 22 17" src="https://github.com/Broklam/MacEasyBatterySaver/assets/88058503/bce6fe8a-f91d-440f-9ca6-9883bd0705a5">
+
 then you will be greeted with a brief explanation 
+
 <img width="682" alt="Screenshot 2023-06-25 at 07 22 47" src="https://github.com/Broklam/MacEasyBatterySaver/assets/88058503/03706fe2-3f01-4428-80de-8f071f6f56da">
+
 (For the first time program will ask you to give permission in settings, and after that it will require only your pass. 
 
